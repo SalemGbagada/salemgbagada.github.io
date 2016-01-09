@@ -1,3 +1,9 @@
+---
+layout:page
+Title:bookshop
+---
+
+
 SALEM GBAGADASalem MediaPRIMARY MENU
 Salem Gbagada BookShop
 BOOKS IN STOCK
